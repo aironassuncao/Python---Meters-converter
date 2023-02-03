@@ -1,0 +1,5 @@
+mtr = int(input("Enter a unit in meters: "))
+cm = float (mtr * 100)
+mlt = float (cm / 10)
+print("CM: ", cm)
+print("Millimeters: ", mlt)
